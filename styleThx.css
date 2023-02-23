@@ -1,0 +1,13 @@
+:root {
+  --lightPurple: #cac3e0;
+}
+
+body {
+  background-color: var(--lightPurple);
+}
+h2 {
+  text-align: center;
+  padding-top: 350px;
+  font-size: xx-large;
+  font-family: fantasy;
+}
